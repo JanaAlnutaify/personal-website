@@ -21,7 +21,7 @@ A modern, responsive, and interactive portfolio website developed using **HTML**
 
 <p align="center">
 
-<img src="website.jpg" width="900">
+<img src="website.png" width="900">
 
 </p>
 
@@ -31,15 +31,15 @@ A modern, responsive, and interactive portfolio website developed using **HTML**
 
 <p align="center">
 
-<img src="website1.peg" width="45%">
-<img src="website2.peg" width="45%">
+<img src="website1.png" width="45%">
+<img src="website2.png" width="45%">
 
 </p>
 
 <p align="center">
 
-<img src="website3.peg" width="45%">
-<img src="website4.peg" width="45%">
+<img src="website3.png" width="45%">
+<img src="website4.png" width="45%">
 
 </p>
 
@@ -116,17 +116,6 @@ Portfolio-Website/
 - 📂 Projects
 - 📧 Contact
 
----
-
-# 📬 Contact
-
-### 📧 Email
-
-**jeena.200220@gmail.com**
-
-### 🐙 GitHub
-
-**https://github.com/JanaAlnutaify**
 
 ---
 

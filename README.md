@@ -21,7 +21,7 @@ A modern, responsive, and interactive portfolio website developed using **HTML**
 
 <p align="center">
 
-<img src="website.jpeg" width="900">
+<img src="website.jpg" width="900">
 
 </p>
 

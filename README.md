@@ -142,6 +142,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 Made with HTML, CSS & JavaScript
 
-© 2026 Jana Alnutaify
+© 2026 
 
 </div>
